@@ -23,7 +23,7 @@
     "dwolla-v2": "^3.4.0",
     "lucide-react": "^0.374.0",
     "next": "14.2.3",
-    "node-appwrite": "^12.0.1",
+    "node-appwrite": "^21.1.0",
     "plaid": "^23.0.0",
     "query-string": "^9.0.0",
     "react": "^18",
